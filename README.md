@@ -1,1 +1,1 @@
-# pomo-study
+# weCoinX
